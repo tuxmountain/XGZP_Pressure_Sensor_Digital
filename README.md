@@ -23,9 +23,9 @@ This library was created for easy and efficient use in your projects. Should wor
 3. **Reading Temperature**: `pressure1.readTemperature()` provides the temperature in Celsius, which is useful for applications without the need for a separate temperature sensor.
 
 ## Development & Fixes
-**Temperature Calibration** fixed
-**Read Negative Value** fixed
-**Add int readPressurePa()** received data in Pascal
+- **Temperature Calibration**: fixed
+- **Read Negative Value**: fixed
+- **Add int readPressurePa()**: received data in Pascal
 
 ## Important Note
 
